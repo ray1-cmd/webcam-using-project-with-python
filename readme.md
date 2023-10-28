@@ -1,0 +1,1 @@
+This a simple code to test a webcam without thermal and infrared capabilities.
